@@ -1,8 +1,8 @@
-# Run the Program
 
+Factorial RPC Program
 at server side   
     sudo ./fact_server
     
     
 at client side
-  sudo ./fact_client localhost
+    sudo ./fact_client localhost
