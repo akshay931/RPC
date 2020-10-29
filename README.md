@@ -1,6 +1,6 @@
 
 Factorial RPC Program <br />
-#at server side    
+at server side    
 >sudo ./fact_server
     
     
