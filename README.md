@@ -1,8 +1,6 @@
 
 Factorial RPC Program
-at server side   
-    sudo ./fact_server
+at server side    sudo ./fact_server
     
     
-at client side
-    sudo ./fact_client localhost
+at client side    sudo ./fact_client localhost
